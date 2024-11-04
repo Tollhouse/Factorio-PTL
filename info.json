@@ -1,0 +1,9 @@
+{
+  "name": "power-transmission-laser",
+  "version": "0.1.0",
+  "title": "Power Transmission Laser",
+  "author": "Tollhouse",
+  "factorio_version": "2.0",
+  "dependencies": ["base >= 2.0"],
+  "description": "This mod adds in a building that will take excess engergy from one planet and shoot it to another planet or station."
+}
