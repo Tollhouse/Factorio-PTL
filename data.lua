@@ -16,7 +16,7 @@ local recipe = {
     energy_required = 10,
     ingredients = {
         {type = "item", name = "steel-plate", amount = 50},
-        {type = "item", name = "accumulator", amount = 5},
+        {type = "item", name = "accumulator", amount = 10},
         {type = "item", name = "laser-turret", amount = 5}
     },
     results = {{type = "item", name = "power-transmission-laser", amount = 1}}
